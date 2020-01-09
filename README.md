@@ -1,6 +1,7 @@
 # PHP Algorithms
 
 ### Array Problems
+1. Weather Report (simple)
 
 ### Number Problems
 1. Max Multiple
