@@ -7,3 +7,5 @@
 2. Dual Divisible 
 
 ### String Problems
+1. Reverse a String
+2. Title Case a String
