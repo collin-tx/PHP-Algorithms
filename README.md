@@ -1,4 +1,6 @@
-# PHP Algorithms
+# Algorithms
+
+##### PHP
 
 ### Array Problems
 1. Weather Report
