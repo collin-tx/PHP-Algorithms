@@ -12,3 +12,4 @@
 ### String Problems
 1. Reverse a String
 2. Title Case a String
+3. Truncate a String
