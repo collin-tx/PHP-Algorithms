@@ -5,6 +5,7 @@
 ### Array Problems
 1. Weather Report
 2. City Loops
+3. Array to Hash
 
 ### Number Problems
 1. Max Multiple
