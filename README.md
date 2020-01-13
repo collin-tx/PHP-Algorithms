@@ -1,6 +1,6 @@
 # Practice Algorithms
 
-##### PHP
+##### language: PHP
 
 ### Array Problems
 1. Weather Report
